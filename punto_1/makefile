@@ -8,4 +8,4 @@ a.out : placas.c
 	gcc placas.c
 
 clean:
-	rm -f a.out data.dat
+	rm -f a.out data.dat 
