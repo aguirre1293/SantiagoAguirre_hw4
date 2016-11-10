@@ -8,4 +8,4 @@ a.out : cuerda.c
 	gcc cuerda.c -lm
 
 clean :
-	rm -f -r a.out imagenes
+	rm -f -r a.out data.dat imagenes
